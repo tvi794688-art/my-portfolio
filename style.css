@@ -8,3 +8,4 @@ body {
   color: #333;
   text-align: center;
 }
+body { background-color: error_color; }
